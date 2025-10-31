@@ -1,4 +1,3 @@
-# acountabilityAI
 # 🧾 OpenLedger – Truth Over Profit
 
 **OpenLedger** is an AI-powered social justice bot built to expose the hidden realities behind corporate decisions — layoffs, worker exploitation, and unethical profit practices — by turning public data into transparent, data-driven journalism.
